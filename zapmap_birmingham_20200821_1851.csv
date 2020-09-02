@@ -1,0 +1,193 @@
+provider,run_mode,city,start_time,scrap_time,station_name,device_id,device_type,network,kw,status_label,available_connectors,total_connectors,lat,lng,address,data
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:27:25,Texaco Olton,GP11385,Type 2,GeniePoint,43,Available,null,1,,,"10-24 Warwick Road
+Solihull
+West Midlands
+B92 7HS",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:27:51,Sure Hotel by Best Western Birmingham South,CM-24267,CCS,GeniePoint,50,Charging,null,1,,,"47-49 Sherbourne Road
+Birmingham
+West Midlands
+B27 6DX",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:28:14,null,null,null,GeniePoint,null,null,null,1,,,null,
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:28:45,Fox Hollies Leisure Centre,CM-70523,Type 2,GeniePoint,22,Out of service,null,1,,,"Shirley Road
+Acock's Green
+Birmingham
+West Midlands
+B27 7NS",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:29:10,West Way Nissan Birmingham South,SGTE - 110200018,null,POLAR,null,Out of service,null,1,,,"884 Warwick Road
+Birmingham
+West Midlands
+B11 2ES",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:29:36,Fox Hollies Leisure Centre,CM-70523,Type 2,POLAR,22,Out of service,null,1,,,"Shirley Road
+Acock's Green
+Birmingham
+West Midlands
+B27 7NS",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:30:01,Wells Lane Retail Park,6452005-1,CCS,InstaVolt,50,Available,null,1,,,"Coventry Road
+Birmingham
+West Midlands
+B26 3JA",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:30:27,BJ’s Bingo Club,CM-10899,Type 2,POLAR,7,Out of service,null,1,,,"250A Mackadown Lane
+Kitts Green
+Birmingham
+West Midlands
+B33 0LE",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:30:52,,Erik-Thor,null,Restrictions,null,Available,null,1,,,"Jaguar Visitor Centre, Gate 1
+Chester Road
+Birmingham
+West Midlands
+B35 7RA",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:31:23,Robins & Day Peugeot,EK-1326P,null,Pod Point,null,Available,null,1,,,"857 Tyburn Road
+Birmingham
+West Midlands
+B24 9NY",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:31:52,Texaco Olton,GP11385,Type 2,GeniePoint,43,Available,null,1,,,"10-24 Warwick Road
+Solihull
+West Midlands
+B92 7HS",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:32:18,Asda Solihull,CM-2596,Type 2,Restrictions,3,Available,null,1,,,"Parkgate
+Stratford Road
+Solihull
+West Midlands
+B90 3GG",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:32:47,,TES-20318-1,null,Zap-Home,null,Available,null,1,,,"Coventry Road
+Solihull
+West Midlands
+B92 0EJ",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:34:12,Asda Small Heath,CM-2348,Type 2,POLAR,7,Some connectors charging,null,1,,,"859 Coventry Road
+Birmingham
+West Midlands
+B10 0HH",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:34:52,Premier Inn Stourbridge Town Centre,CM-2927,Type 2,InstaVolt,7,Available,null,1,,,"Birmingham Street
+Stourbridge
+West Midlands
+DY8 1JR",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:35:18,Premier Inn Stourbridge Town Centre,CM-2927,Type 2,InstaVolt,7,Available,null,1,,,"Birmingham Street
+Stourbridge
+West Midlands
+DY8 1JR",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:35:44,Mill Race Lane,2910455-1,CCS,InstaVolt,50,Available,null,1,,,"Market Street
+Stourbridge
+West Midlands
+DY8 1JN",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:36:09,Paul Rigby Volvo,Anne-Josh,null,Pod Point,null,Available,null,1,,,"Grange Lane
+Hagley
+West Midlands
+DY9 7HH",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:36:35,Mill Race Lane,2910455-1,CCS,InstaVolt,50,Available,null,1,,,"Market Street
+Stourbridge
+West Midlands
+DY8 1JN",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:37:00,Aldi Lye,Greg-Tony,Type 2,Pod Point,7,Available,null,1,,,"Clarkson Place
+Thorns Road
+Brierley Hill
+West Midlands
+DY5 2LD",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:37:25,Tesco Extra Stourbridge,Leah-Amir,Type 2,POLAR,7,Available,null,1,,,"Crown Centre
+Stourbridge
+West Midlands
+DY8 1YD",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:37:51,Aldi Lye,Greg-Tony,Type 2,Pod Point,7,Available,null,1,,,"Clarkson Place
+Thorns Road
+Brierley Hill
+West Midlands
+DY5 2LD",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:38:16,West Way Nissan Stourbridge,PP-12265P,null,Pod Point,null,Available,null,1,,,"Brettell Lane
+Brierley Hill
+West Midlands
+DY5 3LS",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:38:42,Tesco Extra Stourbridge,Leah-Amir,Type 2,InstaVolt,7,Available,null,1,,,"Crown Centre
+Stourbridge
+West Midlands
+DY8 1YD",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:39:05,null,null,null,Zap-Home,null,null,null,1,,,null,
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:40:02,Lidl Kingswinford,,,Pod Point,null,Available,null,1,,,null,
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:40:28,Tesco Extra Cradley Heath,Lola-Fern,Type 2,GeniePoint,7,Issues reported,null,1,,,"Foxoak Street
+Sandwell
+West Midlands
+B64 5DF",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:41:36,,,3-pin,Restrictions,3,Available,null,1,,,"Jack Hayward Way
+Wolverhampton
+West Midlands
+WV1 4DE",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:42:28,Jewellery Quarter Car Park,UKN-70522,Type 2,EV Charge.Online,7,Available,null,1,,,"Vyse Street
+Birmingham
+West Midlands
+B18 6LP",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:42:55,Jewellery Quarter Car Park,UKN-70522,Type 2,EV Charge.Online,7,Available,null,1,,,"Vyse Street
+Birmingham
+West Midlands
+B18 6LP",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:43:22,Livery Street,UKN-70520,Type 2,Charge Your Car,7,Available,null,1,,,"Livery Street (Snow Hill)
+Birmingham
+West Midlands
+B3 2BJ",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:43:48,The Priory Rooms Meeting & Conference Centre,OCM-15466,Type 2,Charge Your Car,7,Available,null,1,,,"40 Bull Street
+Birmingham
+West Midlands
+B4 6AF",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:44:14,The Priory Rooms Meeting & Conference Centre,OCM-15466,Type 2,Charge Your Car,7,Available,null,1,,,"40 Bull Street
+Birmingham
+West Midlands
+B4 6AF",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:44:41,Livery Street,UKN-70520,Type 2,Charge Your Car,7,Available,null,1,,,"Livery Street (Snow Hill)
+Birmingham
+West Midlands
+B3 2BJ",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:45:07,Temple Row,UKN-70530,Type 2,Charge Your Car,22,Out of service,null,1,,,"Birmingham 
+West Midlands
+B2 5NY",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:45:34,Selfridges Moor Car Park,CM-3726,Type 2,Other,7,Available,null,1,,,"Park Street
+Birmingham
+West Midlands
+B5 4BP",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:46:00,Bullring Shopping Centre,Tony-Luke,null,Other,null,Available,null,1,,,"Section 2G and 2F
+Main Centre Car Park
+Birmingham
+West Midlands
+B5 4BU",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:46:27,Moat Lane Car Park,UKN-70516,Type 2,Other,7,Available,null,1,,,"Moat Lane
+Birmingham
+West Midlands
+B5 5BD",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:46:54,Dudley Street Car Park,UKN-70515,Type 2,Other,7,Available,null,1,,,"Dudley Street 
+Birmingham
+West Midlands
+B5 4PJ",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:47:20,Margaret Street,UKN-70531,Type 2,Charge Your Car,22,Out of service,null,1,,,"Birmingham 
+West Midlands
+B3 3BX",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:47:46,Town Hall Car Park,UKN-70521,Type 2,Charge Your Car,7,Issues reported,null,1,,,"Brunel Street
+Birmingham
+West Midlands
+B5 4AF",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:48:13,Pershore Street Car Park,UKN-70518,Type 2,Other,7,Available,null,1,,,"Pershore Street
+Birmingham
+West Midlands
+B5 6PA",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:48:40,Town Hall Car Park,UKN-70521,Type 2,Other,7,Issues reported,null,1,,,"Brunel Street
+Birmingham
+West Midlands
+B5 4AF",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:49:07,Brindley Drive Car Park,UKN-70524,Type 2,ZeroNet,3,Out of service,null,1,,,"Paradise Circus
+Brindley Drive
+Birmingham 
+West Midlands
+B1 2NB",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:49:33,Fellows Auctioneers Ltd,UKEV3967/UKEV3968/UKEV3969,Type 2,ZeroNet,22,Available,null,1,,,"Augusta House
+19 Augusta Street
+Birmingham
+West Midlands
+B18 6JA",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:50:00,Saren Engineering Birmingham,12107702W,null,Other,null,Out of service,null,1,,,"43 Great Lister Street
+Birmingham
+West Midlands
+B7 4LW",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:50:26,Fellows Auctioneers Ltd,UKEV3967/UKEV3968/UKEV3969,Type 2,EV Charge.Online,22,Available,null,1,,,"Augusta House
+19 Augusta Street
+Birmingham
+West Midlands
+B18 6JA",
+zapmap,test,Birmingham,2020-08-21 18:26:35,2020-08-21 18:50:53,Pershore Street Car Park,UKN-70518,Type 2,Other,7,Available,null,1,,,"Pershore Street
+Birmingham
+West Midlands
+B5 6PA",
